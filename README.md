@@ -26,7 +26,7 @@
 ---
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="[linkedin logo](https://www.linkedin.com/in/jordana-moreira-6a5b81380/)"  />
+    <a href="https://www.linkedin.com/in/jordana-moreira-6a5b81380/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ###
